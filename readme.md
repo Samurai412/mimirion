@@ -1,5 +1,12 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D11JJ0FR)
-# 🪶 Mimirion
+<img width="1920" height="996" alt="cantgoback" src="https://github.com/user-attachments/assets/44021737-d977-4f26-91d5-1827f1fe4187" />
+<img width="1920" height="990" alt="cantgo2back" src="https://github.com/user-attachments/assets/0a69995c-94a8-438d-9121-af817c3c20c8" />
+<img width="1917" height="1016" alt="ss2" src="https://github.com/user-attachments/assets/d6bb6205-b2da-4b82-b7e4-a4e26f8882fd" />
+<img width="1920" height="989" alt="ss3" src="https://github.com/user-attachments/assets/373b8584-ac27-4260-859c-89fe4976d374" />
+<img width="1920" height="981" alt="ss4" src="https://github.com/user-attachments/assets/8c4cc16a-4e16-4a3a-9a6f-9c9bc188b9f7" />
+<img width="1920" height="985" alt="ss5" src="https://github.com/user-attachments/assets/7cdd14d8-5722-4cfe-9d2d-a9a5614d6ab8" />
+<img width="1920" height="987" alt="ss6" src="https://github.com/user-attachments/assets/6d94c507-282f-48fc-818f-665d61fad1f2" />
+ 🪶 Mimirion
 
 > In Norse myth, Odin sacrificed an eye for great wisdom.  
 > We only ask that you sacrifice your comfort.
