@@ -1,6 +1,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D11JJ0FR)
 
- ## Please consider liking this ![tweet reply](https://x.com/samur_ai4/status/1954964543584514415) if you like my app, so that I have a better chance at winning this challenge :)
+ ## Please consider liking this [tweet reply](https://x.com/samur_ai4/status/1954964543584514415) if you like my app, so that I have a better chance at winning this challenge :)
  
 
  
