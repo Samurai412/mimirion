@@ -2,7 +2,6 @@
 
 # I HAVEN'T SHARED THE SOURCE CODE YET, FINALIZING SOME STEPS, IF YOU GOT ANY QUESTIONS REACH OUT on discord: samurai4
 
- ## Please consider liking this [tweet reply](https://x.com/samur_ai4/status/1954964543584514415) if you like my app, so that I have a better chance at winning this challenge :)
  
 
  
